@@ -1,7 +1,7 @@
 # Spring Cloud SSM Parameters
 
 Easily create AWS Parameter Store parameters conforming to the format in
-[Sring Cloud AWS](https://cloud.spring.io/spring-cloud-static/spring-cloud-aws/2.1.0.RELEASE/single/spring-cloud-aws.html#_integrating_your_spring_cloud_application_with_the_aws_parameter_store).
+[Spring Cloud AWS](https://cloud.spring.io/spring-cloud-static/spring-cloud-aws/2.1.0.RELEASE/single/spring-cloud-aws.html#_integrating_your_spring_cloud_application_with_the_aws_parameter_store).
 
 
 # Examples
