@@ -41,5 +41,5 @@ variable "type" {
 }
 variable "tags" {
   type = map(string)
-  default = null
+  default = {}
 }
